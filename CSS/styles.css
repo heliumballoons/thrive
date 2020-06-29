@@ -1,0 +1,17 @@
+
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.sect {
+  text-align: center;
+}
+
+.icon {
+  color: green;
+}
+
+.icon:hover {
+  color: black;
+}
